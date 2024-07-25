@@ -1,0 +1,3 @@
+- common.user_dir=D:/LipReading/Lip2SpeechUnit/lip2speech-unit/multi_target_lip2speech
+- common_eval.path=D:/LipReading/Lip2SpeechUnit/lip2speech-unit/multi_target_lip2speech/checkpoints/lip2speech_lrs3_avhubert_multi.pt
+- common_eval.results_path=D:/LipReading/Lip2SpeechUnit/lip2speech-unit/multi_target_lip2speech/results
